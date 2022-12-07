@@ -1,4 +1,4 @@
-package timeusage
+package TimeUsage
 
 import org.apache.commons.collections.functors.TruePredicate
 import org.apache.spark.sql._

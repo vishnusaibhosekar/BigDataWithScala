@@ -1,4 +1,4 @@
-package example
+package Example
 
 object Example {
 

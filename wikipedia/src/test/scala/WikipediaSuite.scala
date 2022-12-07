@@ -1,4 +1,4 @@
-package wikipedia
+package Wikipedia
 
 
 class WikipediaSuite extends munit.FunSuite {

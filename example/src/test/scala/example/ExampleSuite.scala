@@ -1,4 +1,4 @@
-package example
+package Example
 
 import munit.*
 import scala.util.Random

@@ -1,4 +1,4 @@
-package wikipedia
+package Wikipedia
 
 import java.io.File
 object WikipediaData {

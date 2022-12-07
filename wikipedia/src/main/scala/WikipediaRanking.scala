@@ -1,4 +1,4 @@
-package wikipedia
+package Wikipedia
 
 import org.apache.spark._
 import org.apache.log4j._

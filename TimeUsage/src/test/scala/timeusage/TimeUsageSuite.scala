@@ -1,4 +1,4 @@
-package timeusage
+package TimeUsage
 
 import org.apache.spark.sql.{ColumnName, DataFrame, Row}
 import org.apache.spark.sql.types.{
