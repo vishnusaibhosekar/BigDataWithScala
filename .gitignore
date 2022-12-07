@@ -1,0 +1,12 @@
+.bloop
+.vscode
+.metals
+.DS_Store
+project/
+target/
+resources/
+*.dat
+data/
+*.csv
+*.zip
+BDHW123.pdf
